@@ -1,0 +1,11 @@
+CASE 
+    WHEN PROD_CAT is NOT NULL THEN PROD_CAT
+    WHEN PROD_SUBCAT_IND_1 = 1
+        AND 
+            (
+                PROD_SUBCAT_IND_2 = 1
+                OR 
+                MAIN_NEED IN ('Medical','Other Medical','Critical Illness')
+            )
+    THEN 'Cat 2'
+    ELSE 'Cat 3' END
