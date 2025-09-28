@@ -92,3 +92,4 @@ I think for this current use case , I think No.1 approach is more logical since 
 
 ## Acknowledgement
 All of the source code is written by me with the help of ChatGPT (especially in the plotting parts).
+You can read my thought process and my process to reach to my conclusions in here: ![Jupyter File](https://github.com/adleefuad/aia-assesment/blob/main/analysis.ipynb)
