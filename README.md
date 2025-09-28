@@ -45,7 +45,7 @@ Possible Feature for agent persona (agent behaviour)
 
 ## Feature Correlations
 
-![Feature Correlation](https://github.com/adleefuad/aia-assesment/blob/main/reference/image/Model%20FineTuning%20And%20Evaluations.png)
+![Feature Correlation](https://github.com/adleefuad/ds-assesment/blob/main/reference/image/Feature%20Correlation%20Matrix.png)
 
 ## Model Evaluations
 ![FineTuning & Evaluations](https://github.com/adleefuad/aia-assesment/blob/main/reference/image/Model%20FineTuning%20And%20Evaluations.png)
