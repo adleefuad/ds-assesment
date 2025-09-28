@@ -38,7 +38,7 @@ Possible Feature for agent persona (agent behaviour)
 15. Ratio Endowment
 
 ### Time Sensitive Features
-16. Median/Average number of policies sold per month 
+16. Median and Standard Deviation number of policies sold per month 
 17. Variance of number of policies sold per month
 18. Duration of First Purchase to Last Purchase (Served Duration as Agent)
 
