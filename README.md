@@ -1,7 +1,7 @@
 
 # Agent Persona Analysis
 This project focuses on developing persona profiles for insurance agents through behaviour analysis. This assesment aim are to segment insurance agents into meaningful groups based on their characteristics, performance patterns, and working styles.
-
+Total Hours Spent : 14 hours
 
 ## Data Used
 The data used as per given by AIA assesment.
