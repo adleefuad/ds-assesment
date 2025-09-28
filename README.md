@@ -9,9 +9,9 @@ Includes Agent Data, Historical Sold Policy, Main Need of each Policy
 
 | File             | File                                                               |
 | ----------------- | ----------------------------------------------------------------------- |
-| Agent Data | ![AGENT.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/AGENT.csv) AGENT.CSV |
-| Historical Sold Policy | ![MAIN.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/MAIN.csv) MAIN.CSV |
-| Policy Main Group | ![B.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/B.csv) B.CSV, ![C.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/C.csv) C.CSV , ![D.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/D.csv) D.CSV, ![E.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/E.csv) E.CSV |
+| Agent Data | ![AGENT.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/AGENT.csv)|
+| Historical Sold Policy | ![MAIN.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/MAIN.csv)  |
+| Policy Main Group | ![B.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/B.csv) , ![C.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/C.csv) C.CSV , ![D.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/D.csv), ![E.CSV](https://github.com/adleefuad/aia-assesment/blob/main/assessment_data/E.csv) |
 
 
 ## Methodology
